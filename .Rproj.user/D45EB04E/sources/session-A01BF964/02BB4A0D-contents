@@ -1,5 +1,5 @@
 ---
-title: "Who to donate after Fiona"
+title: "Who to donate to after Fiona"
 author: "Sofía Meléndez Cartagena"
 date: "`r Sys.Date()`"
 output:
@@ -14,22 +14,81 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Why you shouldn't donate to the Puerto Rican Goverment
 
+The politician in Puerto Rico have a history of arresting outside aid to use the resources for their political campaigns. During the aftermath of María the government withheld ais and stored them to rot in warehouses while the people of the archipialago died. What little aid was distributed was first decorated with stickers promoting the re-election campaigns of various politicians.   
+
 ## Community Based initiatives
 
 ### Taller Comunidad La Goyco
-  **Website:** [Taller Comunidad La Goyco](https://www.lagoyco.org/) 
-  **Location:**
-  **About:**
+  **Website:** [www.lagoyco.org](https://www.lagoyco.org/) 
+  
+  **Donate at:** PayPal tallercomunidadlagoyco@gmail.com 
+  
+  **Location:** Calle Loíza Santurce Puerto Rico
+  
+  **About:** This Org has been active for the last five years doing everything from organizing workshops, COVID testing and have in the past provided respond services during emergencies. They are currently lending their physical space to those who need power to charge their personal equipment. 
+  
+### TallerSalud
+   **Website:** [tallersalud.com](https://www.tallersalud.com/)
+   
+   **Donate at:** PayPal  http://shorturl.at/dmuxY
+   
+   **Location:** Barrio Medianía Alta Loíza, Puerto Rico
+   
+   **About:** Feminist org that's been active since 1979. They are currently serving hot food and handing out resources to those in need in the following locations: Centro Comunitario El Ceiba en Medianía Alta and Centro Emiliano Figueroa Torres en Piñones. They are accepting monetary donations but additionally they could use: Non-Perishable Food, Disposable Containers, Toiletries, Cutlery, Solar lanterns, Water Filters and Adult & Baby Diapers.
+   
+### Brigada Solidaria del Oeste
+   **Website:** [bsopr.com](https://www.bsopr.com/)
+   
+   **Donate at:** Paypal brigadasolidariaoeste@gmail.com
+   
+   **Location:** Boqueron, Cabo Rojo, Puerto Rico
+   
+   **About:** This Org was born in the aftermath of Hurricane María. They organize community clean ups and distribution of resources such as food, water and temporary shelter. They are accepting monetary donations but will also accept: Water purification tables, Solar lamps, water filters and first aid kits. 
 
 ## Education Orgs
 
+### Org Title
+   **Website:** []()
+   
+   **Donate at:**
+   
+   **Location:**
+   
+   **About:**
+
 ## Independent Journalism
+
+### Org Title
+   **Website:** []()
+   
+   **Donate at:**
+   
+   **Location:**
+   
+   **About:**
+
+## Legal Aid
+
+### Ayuda Legal Puerto Rico
+   **Website:** [ayudalegalpuertorico.org](https://www.ayudalegalpuertorico.org/)
+   
+   **Donate at:** Paypal info@ayudalegalpr.org
+   
+   **Location:** San Juan Puerto Rico
+   
+   **About:** They are a on-profit organization that offers free and accessible legal help. This is especially important after natural disasters as many impoverished people in Puerto Rico don't actually have the deeds to their homes that have been in the family for many generations. 
 
 ## What Else can I do?
 
 ### Share the News
 
+The more people know the better are the chances that; 1) The orgs highlighted in this document get the financial support they need and 2) Others community organizers see this document and send me their information so I can add them to the list. Don't let the people from Puerto Rico fade into the background while we suffer colonial violence and the consequences of global warming. 
+
 ### Contribute
 
-I probably missed 
+I probably missed many orgs. If you know of a trustworthy verifiable org please let me know. Sadly this list has a high concentration of orgs from the metropolitan area and we wish to reach more rural orgs.
 
+__Twitter__: @beehaviorlist
+
+
+This document will be live and updating within my abilities at: [Github {@ComplejoC/Mutual-Aid-Fiona}](https://github.com/ComplejoC/Mutual-Aid-Fiona)
