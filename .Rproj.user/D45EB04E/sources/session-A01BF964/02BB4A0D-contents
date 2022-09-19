@@ -1,0 +1,35 @@
+---
+title: "Who to donate after Fiona"
+author: "Sofía Meléndez Cartagena"
+date: "`r Sys.Date()`"
+output:
+  pdf_document:
+    toc: true
+    #number_sections: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Why you shouldn't donate to the Puerto Rican Goverment
+
+## Community Based initiatives
+
+### Taller Comunidad La Goyco
+  **Website:** [Taller Comunidad La Goyco](https://www.lagoyco.org/) 
+  **Location:**
+  **About:**
+
+## Education Orgs
+
+## Independent Journalism
+
+## What Else can I do?
+
+### Share the News
+
+### Contribute
+
+I probably missed 
+
