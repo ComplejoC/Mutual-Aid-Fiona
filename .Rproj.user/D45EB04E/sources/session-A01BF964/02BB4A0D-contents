@@ -1,6 +1,5 @@
 ---
 title: "Who to donate to after Fiona"
-author: "Sofía Meléndez Cartagena"
 date: "`r Sys.Date()`"
 output:
   pdf_document:
@@ -14,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Why you shouldn't donate to the Puerto Rican Goverment
 
-The politician in Puerto Rico have a history of arresting outside aid to use the resources for their political campaigns. During the aftermath of María the government withheld ais and stored them to rot in warehouses while the people of the archipialago died. What little aid was distributed was first decorated with stickers promoting the re-election campaigns of various politicians.   
+The politician in Puerto Rico have a history of arresting outside aid to use the resources for their political campaigns. During the aftermath of María the government withheld aid and stored them to rot in warehouses while the people of the archipialago died. What little aid was distributed was first decorated with stickers promoting the re-election campaigns of various politicians.   
 
 ## Community Based initiatives
 
@@ -45,14 +44,14 @@ The politician in Puerto Rico have a history of arresting outside aid to use the
    
    **About:** This Org was born in the aftermath of Hurricane María. They organize community clean ups and distribution of resources such as food, water and temporary shelter. They are accepting monetary donations but will also accept: Water purification tables, Solar lamps, water filters and first aid kits. 
    
-### Org Title
+### Casa Pueblo
    **Website:** [casapueblo.org](https://casapueblo.org/)
    
    **Donate at:** Paypal casapueblodeadjuntas@gmail.com
    
    **Location:** Arecibo, Puerto Rico
    
-   **About:**
+   **About:** Active since 1980, this community project was born as push back to mining exploitation. These days Casa Pueblo still protects and stewards the land they set out to protect. But additionally they provide free solar power systems to their neighbors and lend their facilities for those who need a space to charge their personal devices.
    
 ### Org Title
    **Website:** []()
@@ -83,28 +82,59 @@ The politician in Puerto Rico have a history of arresting outside aid to use the
    
    **About:** This Non-profit provides advocacy and services to Queer Adults. During the aftermath of hurricane María they contributed greatly to community organizers. 
    
-### Org Title
-   **Website:** []()
+### Techos Pa Mi Gente
+   **Website:** [tpmgcorp.org](https://www.tpmgcorp.org/)
    
-   **Donate at:**
+   **Donate at:** Paypal https://t.co/KeqJhoSgyc
    
-   **Location:**
+   **Location:** Trujillo Alto, Puerto Rico
    
-   **About:**
+   **About:** This org was born as a response to Hurricane María. They dedicate themselves to re-roofing houses.
+   
+### Comedores Sociales
+   **Website:** [comedoressocialespr.org](https://www.comedoressocialespr.org/)
+   
+   **Donate at:** Paypal https://t.co/PDcXYGcp3Y
+   
+   **Location:** Caguas Puerto Rico
+   
+   **About:** This non profit started as a community initiative to feed students organized by the students themselves. The project has now grown enough that they can provide free groceries to those in need all over the island. 
 
-
-## Education Orgs
-
-### Org Title
-   **Website:** []()
+### Plenitud P.R
+   **Website:** [plenitudpr.org](https://es.plenitudpr.org/)
    
-   **Donate at:**
+   **Donate at:** Directly on their website https://es.plenitudpr.org/dona
    
-   **Location:**
+   **Location:** Las Marías Puerto Rico
    
-   **About:**
+   **About:** They are an educational farm project that provides sustainable aid to the town of Las Marías. Their center is currently open so people can charge their phones, refrigerate medications, and potable water
 
-## Independent Journalism
+### La Fondita de Jesus
+   **Website:** [lafonditadejesus.org](https://lafonditadejesus.org/inicio)
+   
+   **Donate at:** Paypal http://www.paypal.com/paypalme/lafonditadejesus
+   
+   **Location:** Santurce, Puerto Rico
+   
+   **About:** This very specific org is renown through Puerto Rico as a place were un housed people can go receive aid at all levels. Although they are religious in nature, people recieving aid from them do not need to turn to religion to recieve help from them.
+   
+### Mentes Puertorriqueñas en Accion 
+   **Website:** [mentesenaccion.org](https://www.mentesenaccion.org/)
+   
+   **Donate at:** GiveButter, https://givebutter.com/RecuperacionHuracanFionaMPA
+   
+   **Location:** San Juan, Puerto Rico
+   
+   **About:** A community outreach org. They have delimited plans to organize brigades to help historically under serviced communities. 
+
+### Amigxs del Mar
+   **Website:** [amigxsdelmar.org](https://www.amigxsdelmar.org/)
+   
+   **Donate at:** Paypal shorturl.at/bKL59
+   
+   **Location:** San Juan, Puerto Rico
+   
+   **About:** Founded in 1995 this environmental justice org believes in redirecting their resources directly to self organizing communities. At the moment they haven't announced any plans related to hurricane Fiona, but with their track record they should be releasing something soon. 
 
 ### Org Title
    **Website:** []()
